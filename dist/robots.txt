@@ -1,0 +1,3 @@
+# robots.txt for blocked.fun and blocked.cache.fun
+User-agent:
+Disallow:

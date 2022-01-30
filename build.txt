@@ -1,0 +1,5 @@
+tools:
+    git
+    pandoc
+
+This project is build on a linux environment CI.

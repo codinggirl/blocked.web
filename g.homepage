@@ -1,0 +1,5 @@
+mkdir -p dist
+pandoc --from gfm --to html --standalone --css tufte-css/tufte.min.css --metadata title="Blocked: Keep blocked, keep simple" README.md --output dist/index.html
+pandoc --from gfm --to html --standalone --css tufte-css/tufte.min.css --metadata title="404: Nothing here" 404.md --out dist/404.html
+cp -R tufte-css dist/
+cp robots.txt dist/
