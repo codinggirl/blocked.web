@@ -13,41 +13,68 @@ Any and all trademarks are the property of their respective owners.
 My core list:
 
 ```txt
-https://core.blocked.fun/core.0.txt
-https://core.blocked.fun/core.1.txt
-https://core.blocked.fun/core.2.txt
-https://core.blocked.fun/core.3.txt
-https://core.blocked.fun/core.4.txt
-https://core.blocked.fun/core.5.txt
-https://core.blocked.fun/core.6.txt
-https://core.blocked.fun/core.7.txt
-https://core.blocked.fun/core.8.txt
-https://core.blocked.fun/core.9.txt
+https://domains.blocked.fun/lists/core.0.txt
+https://domains.blocked.fun/lists/core.1.txt
+https://domains.blocked.fun/lists/core.2.txt
+https://domains.blocked.fun/lists/core.3.txt
+https://domains.blocked.fun/lists/core.4.txt
+https://domains.blocked.fun/lists/core.5.txt
+https://domains.blocked.fun/lists/core.6.txt
+https://domains.blocked.fun/lists/core.7.txt
+https://domains.blocked.fun/lists/core.8.txt
+https://domains.blocked.fun/lists/core.9.txt
+https://domains.blocked.fun/lists/core.10.txt
+https://domains.blocked.fun/lists/core.11.txt
+https://domains.blocked.fun/lists/core.12.txt
+https://domains.blocked.fun/lists/core.13.txt
+https://domains.blocked.fun/lists/core.14.txt
+https://domains.blocked.fun/lists/core.15.txt
+https://domains.blocked.fun/lists/core.16.txt
+https://domains.blocked.fun/lists/core.17.txt
+https://domains.blocked.fun/lists/core.18.txt
+https://domains.blocked.fun/lists/core.19.txt
+https://domains.blocked.fun/lists/core.20.txt
+https://domains.blocked.fun/lists/core.21.txt
+https://domains.blocked.fun/lists/core.22.txt
+https://domains.blocked.fun/lists/core.23.txt
+https://domains.blocked.fun/lists/core.24.txt
+https://domains.blocked.fun/lists/core.25.txt
+https://domains.blocked.fun/lists/core.26.txt
+https://domains.blocked.fun/lists/core.27.txt
+https://domains.blocked.fun/lists/core.28.txt
+https://domains.blocked.fun/lists/core.29.txt
+https://domains.blocked.fun/lists/core.30.txt
+https://domains.blocked.fun/lists/core.31.txt
+https://domains.blocked.fun/lists/core.32.txt
+https://domains.blocked.fun/lists/core.33.txt
+https://domains.blocked.fun/lists/core.34.txt
+https://domains.blocked.fun/lists/core.35.txt
+https://domains.blocked.fun/lists/core.36.txt
+https://domains.blocked.fun/lists/core.37.txt
+https://domains.blocked.fun/lists/core.38.txt
+https://domains.blocked.fun/lists/core.39.txt
+https://domains.blocked.fun/lists/core.40.txt
+https://domains.blocked.fun/lists/core.41.txt
+https://domains.blocked.fun/lists/core.42.txt
+https://domains.blocked.fun/lists/core.43.txt
+https://domains.blocked.fun/lists/core.44.txt
+https://domains.blocked.fun/lists/core.45.txt
+https://domains.blocked.fun/lists/core.46.txt
+https://domains.blocked.fun/lists/core.47.txt
 ```
-
-Keep a single file domains list is prettier, but the GitHub and Cloudflare Pages have so many limitations.
-
-Host a large file on the LAN maybe a good idea, but online is too excited to give up.
 
 ## 3rd party blocked lists
 
-These lists are provided by 3rd party, but my robots fetch them timely, and let them DOMAIN-ONLY.
-
-| List name   | URL                                    | Origin source                                                |
-| ----------- | -------------------------------------- | ------------------------------------------------------------ |
-| EasyList    | https://3p.blocked.fun/easylist.txt    | https://easylist.to/easylist/easylist.txt                    |
-| EasyPrivacy | https://3p.blocked.fun/easyprivacy.txt | https://easylist.to/easylist/easyprivacy.txt                 |
-| AdGuard DNS | https://3p.blocked.fun/adguard.txt     | https://filters.adtidy.org/extension/chromium/filters/15.txt |
-
-Notes: The AdGuard DNS filter list containers easy list china, etc. So we no need to and other lists like easylist china, easylist fr, etc.
-
-Here are plain text lists for copy-paste usage.
+Here are some third party lists.
 
 ```txt
-https://3p.blocked.fun/easylist.txt
-https://3p.blocked.fun/easyprivacy.txt
-https://3p.blocked.fun/adguard.txt
+https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 ```
+
+See details at: <https://justdomains.github.io/blocklists/> and sources on <https://github.com/justdomains/blocklists>.
 
 ## Conclusion
 
