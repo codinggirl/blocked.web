@@ -13,7 +13,6 @@ Any and all trademarks are the property of their respective owners.
 My core list:
 
 ```txt
-https://domains.blocked.fun/lists/core.0.txt
 https://domains.blocked.fun/lists/core.1.txt
 https://domains.blocked.fun/lists/core.2.txt
 https://domains.blocked.fun/lists/core.3.txt
